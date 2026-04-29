@@ -25,7 +25,7 @@ A simple, lightweight Python tool to evaluate the strength of your passwords bas
 
 2.  **Make it executable (Optional):**
     ```bash
-    chmod +x checker.py
+    chmod +x password_strength_checker.py
     ```
 
 ## Usage
@@ -33,7 +33,7 @@ A simple, lightweight Python tool to evaluate the strength of your passwords bas
 Run the script using Python 3:
 
 ```bash
-python3 checker.py
+python3 password_strength_checker.py
 ```
 
 Follow the on-screen prompt to enter your password, and the script will return its strength rating and feedback.
